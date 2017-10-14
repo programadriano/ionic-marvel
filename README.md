@@ -1,26 +1,15 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## IONIC 3 - Marvel Comics
 
-## How to use this template
+This project was created to show you how we can create a APP with Ionic 3 and How We can integrate with a external API creating a provider. 
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
-
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
-
-### With the Ionic CLI:
-
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+### To run:
 
 ```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
+$ ionic serve
 ```
 
-Then, to run it, cd into `myBlank` and run:
+### Result
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
+![](https://media.giphy.com/media/3o7aDdwGxYaIk9ca0E/giphy.gif)
 
-Substitute ios for android if not on a Mac.
 
